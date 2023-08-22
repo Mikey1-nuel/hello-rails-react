@@ -106,6 +106,10 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Future Features
+
+- User Authentication
+
 ## Contributing <a name="contributing"></a>
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/Mikey1-nuel/hello-rails-react/issues).
