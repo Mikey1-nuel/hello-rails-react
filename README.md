@@ -13,6 +13,7 @@
   - [Database](#database)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- 🔭 Future Features(#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
